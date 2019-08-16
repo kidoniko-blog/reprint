@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annzan.xyz/reprint/</id>
     <title>曲奇的转载小站</title>
-    <updated>2019-08-16T02:17:44.709Z</updated>
+    <updated>2019-08-16T02:31:12.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annzan.xyz/reprint/"/>
     <link rel="self" href="https://annzan.xyz/reprint//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://annzan.xyz/reprint//images/avatar.png</logo>
     <icon>https://annzan.xyz/reprint//favicon.ico</icon>
     <rights>All rights reserved 2019, 曲奇的转载小站</rights>
+    <entry>
+        <title type="html"><![CDATA[⤴️ 欢迎]]></title>
+        <id>https://annzan.xyz/reprint//post/huan-ying</id>
+        <link href="https://annzan.xyz/reprint//post/huan-ying">
+        </link>
+        <updated>2020-08-12T02:12:53.000Z</updated>
+        <content type="html"><![CDATA[<p>本站暂时不支持评论。<br>
+👉<a href="https://imgchr.com/">路过图床</a><br>
+✏️以生之有涯随知之无涯，殆矣，然何为，为何为。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「杨绛」从此以后，咱们只有死别，再无生离。]]></title>
         <id>https://annzan.xyz/reprint//post/yang-jiang-cong-ci-yi-hou-zan-men-zhi-you-si-bie-zai-wu-sheng-chi</id>
@@ -33,15 +44,6 @@
 <p>我曾以为，只要我不变，你就不会有变化，我会像礁群上的灯塔，像冬天里的暖炉，时刻照耀着你，温煦着你。我了解你的品性，你倔强也顽固，你轻易不动心，动心了就不会撒手。这些都让我知道什么能使你更柔软。我和你撒娇，给你欢笑，和你在一起，是我所有的梦想，为此我想去世界的任一个角落，只要没人叨扰，能让我枕在你怀中，听你讲你曾经没有我的岁月，……那就是我心里的天堂。</p>
 <p>只是，你从来都没有一个明确的誓言给我，你哪里肯说“从此后我们只有死别，再无生离”？你不说不是因为重信轻诺，而是，而是你从来没想过和我能够久远。没有信念的时候，我们做什么，都将不被束缚，也无压力。只是，我难受，我懊悔。难受没能使你憧憬和我终老的幸福。</p>
 <p>生离，真的容易做到。至少比“死别”要容易。所以你还是用最简单的生离，终止了这一切。现在，我和杨绛一样，一直孤单地活着，孤单地思念着我们俩短暂的从前。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⤴️ 欢迎]]></title>
-        <id>https://annzan.xyz/reprint//post/huan-ying</id>
-        <link href="https://annzan.xyz/reprint//post/huan-ying">
-        </link>
-        <updated>2019-08-16T02:12:53.000Z</updated>
-        <content type="html"><![CDATA[<p>本站暂时不支持评论。</p>
 ]]></content>
     </entry>
     <entry>
